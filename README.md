@@ -37,8 +37,7 @@ resume-analyzer-ai/
     └── config.toml
 ▶️ How to Run Locally
 1. Clone the Repository
-git clone https://github.com/your-username/resume-analyzer-ai.git
-cd resume-analyzer-ai
+git clone https://github.com/maddhurika2308/resume-analyzer-ai
 2. Create Virtual Environment
 python -m venv venv
 
